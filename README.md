@@ -1,6 +1,5 @@
 # *How to get the repo into your PC:*
-* Step 1: Copy URL of the repo
-* Step 2: In the terminal go to the desired folder and enter `git clone https://github.com/K-VENKAT-KEDARNATH/dbms_project-1.git`
+In the terminal go to the desired folder and enter `git clone https://github.com/K-VENKAT-KEDARNATH/dbms_project-1.git`
 
 # *How to start the website:*
   * Step 1: Open terminal and make sure you are in the folder which has all files
