@@ -15,7 +15,7 @@ In the terminal go to the desired folder and enter `git clone https://github.com
 # *How to use website:*
   * Firstly you have to signup and enter your details
   * You cannot signin to website unless you are verified by any administrator, so please wait while the administrator verifies your account.
-> Administrator: There is a main administrator with id: `20190000H` and password:`123`. Login with these credentials as an administrator and verify the accounts.
+> Administrator: There is a main administrator with id: `2019A0000H` and password:`123`. Login with these credentials as an administrator and verify the accounts.
   
   - [x] After your account is verified, you can signin
   
